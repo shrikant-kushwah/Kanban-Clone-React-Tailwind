@@ -19,11 +19,9 @@ This is a solution to the [Kanban Clone SS](https://drive.google.com/file/d/1rCE
 ### The challenge
 
 Kanban Clone:-
-Congratulations on being selected to complete a Mercor project! We conduct final-round interviews for applicants with successful submissions to be a Mercor engineer.
-
 In this project, you will clone a Figma design in React. The deployed code should exactly replicate the original Figma design, including fonts, icons, colors, structure, layout, and spacing.
 
-This is the Figma:
+This is the Figma:.......link......remove...
 
 Requirements:-
 
