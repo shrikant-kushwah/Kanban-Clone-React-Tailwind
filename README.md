@@ -43,10 +43,6 @@ Grading:
 
 3. Projects are only responsible for the frontend code. No backend elements should be implemented.
 
-### Screenshot
-
-![Screenshot](https://drive.google.com/file/d/1rCEOtI-fda8DQ1b6Ug9fZs-B34dPrJ5x/view?usp=sharing)
-
 ### Links
 
 - Live Site URL: [link]()
