@@ -3,7 +3,7 @@ Mercor Frontend Vetting Project - Assessment
 
 # Kanban Clone solution
 
-This is a solution to the [Kanban Clone SS](https://drive.google.com/file/d/1rCEOtI-fda8DQ1b6Ug9fZs-B34dPrJ5x/view?usp=sharing).
+This is a solution to the [Kanban Clone screenshot](https://drive.google.com/file/d/1rCEOtI-fda8DQ1b6Ug9fZs-B34dPrJ5x/view?usp=sharing).
 
 ## Table of contents
 
